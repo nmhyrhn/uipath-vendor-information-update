@@ -1,0 +1,6 @@
+{
+  "Name": "실습1_거래처정보업데이트_작업",
+  "ProjectType": "Process",
+  "Description": "빈 프로세스",
+  "MainFile": "Main.xaml"
+}

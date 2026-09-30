@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="6dWslgOM8ESC0lGzCM2qhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="765, -1036, 1071, 900" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJNSURBVDhPVVNNaxNRFH0zU1cibguC4NqFIPQPCAqu7MafoGTevFQCitSPrkQFl1qD0FURAsWiJZlkJsYUtVRbSqYKRWspKMVola6ENjSZOXrvfYl6YZg7b94799xz7lPK1OD6FagghhoL4ejnGDIhPB3LGj3a/ue8avMKnKAG5ZgKHNOA8styyNT+e9xLtDGEMiGUX4enJafDDgHxxlyMAyaWBRNi5N5bZEjR6XTQS4E0BWaTHzh8Zd6yLUONEZMIiujIQUE8/WAFSDNML33H5s9dZAAydBlo+fMOhq83LSNiGBIDoaN0hNFiAooLjxM4+SqOXGticXMHWdoVoKyHT9/2cPLuay7mERupHCJ48p43nX24zGCuH7F4hwoNPE3a3FKKHoAU23v7OD+1KnqQMDfLH4g1jt9qCi2ipwkgktZMHcX5LWYAdLlFiqtz61DFhS3+mF5qM62+Hp6WHvvtUV6YWUPy9Rc2tneZCcGoi6V3yJfWcHn24z9iWht1BCdnLbRzQC7QrIiNNXFBBVVGpBxZDwcLMYa09do0wLPCBywYg5flzVWCmOkIrRTnplZZrplWG6WVNvblJ9s5PE42Wgt5kPIhPH+ODx+beCkbswyn7tMwSYzcfsPC0ffooxavjT9bZ+bKzdUZkYIoEYcTdxZZ8YnyBgMfvbHAbwqZCIqUx18pY8UxVbk0hnIBZVH7F8iXC3ZmssUQk6++WA2oF12F69tbRpt5TawT0NAKGUPlo4EbXHxgB/WjpfJggPrKBy/+qh9IMYeA/nz/BinFpNMHDGhfAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='국세청 홈택스 - 메인' /&gt;" Title="국세청 홈택스 - 메인" Url="https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&amp;menuCd=index3" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="8499c85423441f6800c7be5c8154b4ed.jpg" xmlns="">0P0iDkTH3h0eo8DYmwMD-RQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

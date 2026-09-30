@@ -1,0 +1,13 @@
+.local/
+.project/
+.settings/
+.storage/
+.tmh/
+
+*.log
+*.tmp
+~$*.xlsx
+
+# 메일에서 다운로드한 실행 데이터는 제외하고 공개용 Master 템플릿만 관리합니다.
+Data/Input/*
+!Data/Input/Master - 원본.xlsx

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome 국세청 홈택스 - 메인",
+  "Type": "App",
+  "Id": "WHbtoLMZd0iKEZ-qFdIFiw",
+  "Reference": "MWMzhocj_ECZUYHXcQF0nw/WHbtoLMZd0iKEZ-qFdIFiw",
+  "Created": "2026-09-11T01:48:05.1243159Z",
+  "Updated": "2026-09-11T01:48:05.1243159Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DpmS9vTnakmB2Y6UQ4lHvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hometax.go.kr/websquare/websquare.html" CVScreenId="5203ae94-7e78-4061-8f1b-0ef63a216ba1" DesignTimeRectangle="189, 526, 160, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='mf_txppWframe_bsno' tag='INPUT' /&gt;" Guid="a271e267-38cf-4166-90dd-122f81a440c0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국세청 홈택스 - 상담ㆍ불복ㆍ고충ㆍ제보ㆍ기타 &amp;gt; 사업자상태 &amp;gt; 사업자상태 조회(사업자등록번호)' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5203ae94-7e78-4061-8f1b-0ef63a216ba1" CvTextArea="51, 532, 101, 19" CvTextArgument="AIgxI55W5" CvType="Text" DesignTimeRectangle="54, 533, 97, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='mf_txppWframe_textbox954' tag='LABEL' type='' class='w2textbox ' aaname='사업자등록번호' check:innerText='사업자등록번호' /&gt;" Guid="5ab581b9-7feb-47ea-88ea-2cdc4f59076e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="25ea139227415224c6f305030c712095.png" xmlns="">0Dfy90JU2s0ySgnvsSStWLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
